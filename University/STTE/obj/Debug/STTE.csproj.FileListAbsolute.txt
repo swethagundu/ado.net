@@ -1,0 +1,11 @@
+D:\TRAINING\github\training\University\STTE\bin\Debug\STTE.exe.config
+D:\TRAINING\github\training\University\STTE\bin\Debug\STTE.exe
+D:\TRAINING\github\training\University\STTE\bin\Debug\STTE.pdb
+D:\TRAINING\github\training\University\STTE\obj\Debug\STTE.csproj.AssemblyReference.cache
+D:\TRAINING\github\training\University\STTE\obj\Debug\STTE.csproj.SuggestedBindingRedirects.cache
+D:\TRAINING\github\training\University\STTE\obj\Debug\STTE.csproj.CoreCompileInputs.cache
+D:\TRAINING\github\training\University\STTE\obj\Debug\STTE.exe
+D:\TRAINING\github\training\University\STTE\obj\Debug\STTE.pdb
+D:\TRAINING\github\training\University\STTE\bin\Debug\University.dll
+D:\TRAINING\github\training\University\STTE\bin\Debug\University.pdb
+D:\TRAINING\github\training\University\STTE\obj\Debug\STTE.csproj.CopyComplete

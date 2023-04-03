@@ -1,0 +1,12 @@
+D:\My_Repo\University\University\bin\Debug\University.dll
+D:\My_Repo\University\University\bin\Debug\University.pdb
+D:\My_Repo\University\University\obj\Debug\University.csproj.AssemblyReference.cache
+D:\My_Repo\University\University\obj\Debug\University.csproj.CoreCompileInputs.cache
+D:\My_Repo\University\University\obj\Debug\University.dll
+D:\My_Repo\University\University\obj\Debug\University.pdb
+D:\TRAINING\github\training\University\University\bin\Debug\University.dll
+D:\TRAINING\github\training\University\University\bin\Debug\University.pdb
+D:\TRAINING\github\training\University\University\obj\Debug\University.csproj.AssemblyReference.cache
+D:\TRAINING\github\training\University\University\obj\Debug\University.csproj.CoreCompileInputs.cache
+D:\TRAINING\github\training\University\University\obj\Debug\University.dll
+D:\TRAINING\github\training\University\University\obj\Debug\University.pdb

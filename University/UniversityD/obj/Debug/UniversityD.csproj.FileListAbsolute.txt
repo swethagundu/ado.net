@@ -1,0 +1,11 @@
+D:\My_Repo\University\UniversityD\bin\Debug\UniversityD.exe.config
+D:\My_Repo\University\UniversityD\bin\Debug\UniversityD.exe
+D:\My_Repo\University\UniversityD\bin\Debug\UniversityD.pdb
+D:\My_Repo\University\UniversityD\bin\Debug\University.dll
+D:\My_Repo\University\UniversityD\bin\Debug\University.pdb
+D:\My_Repo\University\UniversityD\obj\Debug\UniversityD.csproj.AssemblyReference.cache
+D:\My_Repo\University\UniversityD\obj\Debug\UniversityD.csproj.SuggestedBindingRedirects.cache
+D:\My_Repo\University\UniversityD\obj\Debug\UniversityD.csproj.CoreCompileInputs.cache
+D:\My_Repo\University\UniversityD\obj\Debug\UniversityD.csproj.CopyComplete
+D:\My_Repo\University\UniversityD\obj\Debug\UniversityD.exe
+D:\My_Repo\University\UniversityD\obj\Debug\UniversityD.pdb
